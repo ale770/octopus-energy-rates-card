@@ -27,7 +27,7 @@ class OctopusEnergyRatesCard extends HTMLElement {
             }
             td.current {
                 position: relative;
-                font-weight: bold;
+                font-weight: bold!important;
             }    
             td.current:before{
                 content: "";
