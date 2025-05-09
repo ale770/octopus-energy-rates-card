@@ -36,8 +36,8 @@ class OctopusEnergyRatesCard extends HTMLElement {
                 width: 0; 
                 height: 0; 
                 display: block;
-                border-top: calc(var(--ha-line-height-normal)*0.65) solid transparent;
-                border-bottom: calc(var(--ha-line-height-normal)*0.65) solid transparent;
+                border-top: 14px solid transparent;
+                border-bottom: 14px solid transparent;
 
                 border-right: 10px solid;
             }
